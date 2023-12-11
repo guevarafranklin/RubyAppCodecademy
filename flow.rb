@@ -1,5 +1,5 @@
-x = 10
-y = 12
+x = 14
+y = 14
 
 if x > y
     puts "x value more than y"
